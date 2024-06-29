@@ -14,3 +14,8 @@ This simple yet effective portfolio showcases my skills and projects through a c
 
 - HTML5
 - CSS3
+
+## View Website 
+
+You can view my website by clicking this
+https://yakhoob-hub.github.io/Simple-Portfolio-Website/
